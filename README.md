@@ -31,7 +31,7 @@ Working on industrial machine learning applications in the automotive sector, wi
 - Model evaluation, robustness analysis and performance optimization.
 - Work in an industrial environment, considering real-time constraints and production requirements.
 
-### 02 — COVID-19 Detection from Chest X-rays | Deep Learning & MLOps
+### 02 — [COVID-19 Detection from Chest X-rays | Deep Learning & MLOps](https://github.com/edoduc/Analysis-of-COVID-19-Chest-X-rays)
 
 Collaborative project exploring different machine learning approaches for COVID-19 detection from chest X-ray images, currently evolving towards a production-oriented MLOps architecture.
 
@@ -52,7 +52,7 @@ Collaborative project exploring different machine learning approaches for COVID-
 
 *Collaborative project — contributions to model development and MLOps architecture.*
 
-### 03 — FlowAnalyzer | Computer Vision
+### 03 — [FlowAnalyzer | Computer Vision](https://github.com/achennoufi/flow-analyzer)
 
 A computer vision application for analyzing pedestrian flows in public spaces using video data.
 
@@ -63,7 +63,7 @@ A computer vision application for analyzing pedestrian flows in public spaces us
 - FastAPI backend and Docker-based deployment.
 - Azure ML integration.
 
-### 04 — Music Genre Classification | Audio Deep Learning
+### 04 — [Music Genre Classification | Audio Deep Learning](https://github.com/achennoufi/music-genre-classifier)
 
 Exploration of Transformer-based architectures for music genre classification.
 
@@ -83,4 +83,4 @@ Exploration of Transformer-based architectures for music genre classification.
 
 Interested in Machine Learning Engineering, Applied AI, MLOps and building production-ready AI systems.
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/achennoufi)
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/aziz-chennoufi-7a88861b6/)) · [GitHub](https://github.com/achennoufi)
