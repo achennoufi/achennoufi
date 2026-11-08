@@ -65,13 +65,15 @@ A computer vision application for analyzing pedestrian flows in public spaces us
 
 ### 04 — [Music Genre Classification | Audio Deep Learning](https://github.com/achennoufi/music-genre-classifier)
 
-Exploration of Transformer-based architectures for music genre classification.
+<sup>🏆 Kaggle Competition — Ranked #2</sup>
+
+Exploration of Transformer-based architectures for music genre classification across five classes: jazz, rock, pop, metal and electronic music.
 
 - Audio preprocessing and spectrogram generation.
 - Fine-tuning a pretrained Audio Spectrogram Transformer (AST).
 - PyTorch-based deep learning pipeline.
-- Evaluation on a multi-class audio classification task.
-- Public competition leaderboard: 0.87222.
+- Multi-class audio classification and model evaluation.
+- **Competition score:** 0.87222 — [View Kaggle Leaderboard](https://www.kaggle.com/competitions/music-genre-classification-from-mel-spectrograms-dl4cv).
 
 ## Background
 
