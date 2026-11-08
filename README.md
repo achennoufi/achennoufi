@@ -85,4 +85,4 @@ Exploration of Transformer-based architectures for music genre classification ac
 
 Interested in Machine Learning Engineering, Applied AI, MLOps and building production-ready AI systems.
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/aziz-chennoufi-7a88861b6/)) · [GitHub](https://github.com/achennoufi)
+[LinkedIn](https://www.linkedin.com/in/aziz-chennoufi-7a88861b6/) · [GitHub](https://github.com/achennoufi)
