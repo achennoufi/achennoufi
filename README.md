@@ -76,9 +76,9 @@ Exploration of Transformer-based architectures for music genre classification ac
 - **Competition score:** 0.87222 — [View Kaggle Leaderboard](https://www.kaggle.com/competitions/music-genre-classification-from-mel-spectrograms-dl4cv).
 
 ## Background
-
+- Bachelor's degree in Applied Mathematics at Paris Dauphine PSL.
 - Master's degree in Data Science & Data Engineering — Université de Toulouse.
-- AI Engineering & MLOps specialization — MINES Paris / Liora.
+- AI Engineering & MLOps specialization — Liora x MINES Paris Executive Education
 - Industry experience in machine learning and computer vision.
 
 ## Let's Connect
